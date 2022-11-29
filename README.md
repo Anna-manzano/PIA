@@ -1,6 +1,6 @@
 # PIA
 Anna Patricia Manzano Vargas - 2076208 <br/>
-[Descripción General del Repositorio](/Descripción General del Repositorio):  <br/>
+[Descripción General del Repositorio](/Descripcion_general_del_repositorio):  <br/>
 [Manejo de APIs](/Manejo de APIs) :  <br/>
 [Scripting en powershell](/Scripting en powershell):   <br/>
 [Scripting en bash](/Scripting en bash):  <br/>
